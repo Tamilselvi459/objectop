@@ -7,7 +7,7 @@ public class example2 extends example{
         this.address = address;
 
     }
-    public void run(){
-        System.out.println("ex");
+    public void fun(int number){
+        System.out.println("Method is overriding");
     }
 }

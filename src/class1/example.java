@@ -9,12 +9,14 @@ public class example {
         this.name = name;
         this.age = age;
     }
-    public void run(int number){
-        System.out.println("num" + number);
+   public  example(){}
+
+    public void fun(int number){
+        System.out.println("Method is overloading with parameter with integer");
     }
 
 
-    public void run() {
-        System.out.println("+++++");
+    public void function() {
+        System.out.println("Method overloading with empty parameter ");
     }
 }
