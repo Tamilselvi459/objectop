@@ -1,5 +1,6 @@
 import class1.example;
 import class1.example2;
+import class1.example3;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,6 +11,8 @@ public class Main {
         example ab = new example();
         ab.fun(80);
         ab.function();
+        example a1 = new example3();
+        a1.function();
 
     }
 }

@@ -8,6 +8,7 @@ public class example2 extends example{
 
     }
     public void fun(int number){
+
         System.out.println("Method is overriding");
     }
 }
