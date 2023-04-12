@@ -10,9 +10,9 @@ public class Main {
         ad.fun(90);
         example ab = new example();
         ab.fun(80);
-        ab.function();
+        ab.fun();
         example a1 = new example3();
-        a1.function();
+        a1.fun();
 
     }
 }

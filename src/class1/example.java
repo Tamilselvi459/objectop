@@ -16,7 +16,7 @@ public class example {
     }
 
 
-    public void function() {
+    public void fun() {
         System.out.println("Method overloading with empty parameter ");
     }
 }
